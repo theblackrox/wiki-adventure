@@ -32,6 +32,7 @@
  * @file
  * @ingroup entrypoint
  * @ingroup API
+ * @TEST ROX
  */
 
 use MediaWiki\Logger\LegacyLogger;
